@@ -5,7 +5,7 @@ I am a highly adaptable and detail-oriented tech professional with a strong prog
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/ktrebbien/ActiveDirectoryLab)
-- [Hello World!](https://github.com/ktrebbien/ActiveDirectoryLab)
+- [SIEM Setup in Azure (TBD)](https://github.com/ktrebbien)
 
 <h2>📜 Certifications </h2>
 
