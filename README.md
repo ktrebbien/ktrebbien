@@ -4,8 +4,8 @@ I am a highly adaptable and detail-oriented tech professional with a strong prog
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/ktrebbien/LABURL)
-- [Hello World!](https://github.com/ktrebbien/LABURL)
+- [Active Directory Home Lab](https://github.com/ktrebbien/ActiveDirectoryLab)
+- [Hello World!](https://github.com/ktrebbien/ActiveDirectoryLab)
 
 <h2>📜 Certifications </h2>
 
