@@ -6,11 +6,11 @@ I am a highly adaptable and detail-oriented tech professional with a strong prog
 
 - [Active Directory Home Lab](https://github.com/ktrebbien/ActiveDirectoryLab)
 - [SIEM Setup in Azure (TBD)](https://github.com/ktrebbien)
-- [Google Cybersecurity Professional Projects](https://github.com/ktrebbien/GoogleCyberCert)
+- [Google Cybersecurity Certificate Projects](https://github.com/ktrebbien/GoogleCyberCert)
 
 <h2>📜 Certifications </h2>
 
-- [Google Cybersecurity Professional (IP)](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [CompTIA Security+ (IP)](https://www.comptia.org/certifications/security)
 
 <h2> 🤳 Connect with me:</h2>
