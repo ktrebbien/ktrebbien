@@ -10,8 +10,8 @@ I am a highly adaptable and detail-oriented tech professional with a strong prog
 
 <h2>📜 Certifications </h2>
 
-- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 <h2> 🤳 Connect with me:</h2>
 
